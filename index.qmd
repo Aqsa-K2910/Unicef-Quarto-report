@@ -355,10 +355,10 @@ if __name__ == "__main__":
     print("\n--- Plot Generation Complete ---")
 ```
 
-# Futher Explaination of Visualisations
+# Further Explanation of Visualisations
 Moving out of a single health service, we consider the broader determinants of health. We explore the ancient assumption that economic prosperity will always bring better health outcomes. A comparison of Afghanistan's GDP trend and its life expectancy trend gives an enlightened view, which shows that while there is an association, the relationship is complex and not necessarily linear. Generalizing this economic argument to many countries, we draw a scatter plot of the general positive correlation between GDP per capita and youth mortality, confirming that economic development is a significant force, but additional determining factors are clearly at play.
 
-# Conslusion
+# Conclusion
 We finish by highlighting some health outcomes and vulnerable populations. By monitoring trends in youth mortality in India, disaggregated by sex, we see evidence of overall health system strengthening alongside continuing gender-based disparities needing to be addressed. Bringing the story full circle, the interactive map presents a powerful geographical perspective, graphically overlaying areas plagued by healthcare sanitation issues with those experiencing high youth mortality. This last visualization underscores the entanglement of infrastructure, economic status, and social factors in adjudicating the health and survival of adolescents across the globe, revealing a complex portrait of progress, disparities, and ongoing challenges.
 
 
