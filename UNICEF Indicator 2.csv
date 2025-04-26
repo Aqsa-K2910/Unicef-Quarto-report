@@ -1,0 +1,338 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,"Adjusted net attendance rate, one year before the official primary entry age",2015,29.306061,Female,,%,,,,Total
+Afghanistan,AF,AFG,4,"Adjusted net attendance rate, one year before the official primary entry age",2015,38.497471,Male,,%,,,,Total
+Afghanistan,AF,AFG,4,"Adjusted net attendance rate, one year before the official primary entry age",2015,34.136059,Total,,%,,,,Total
+Algeria,DZ,DZA,12,"Adjusted net attendance rate, one year before the official primary entry age",2020,79.780457,Female,,%,,,,Total
+Algeria,DZ,DZA,12,"Adjusted net attendance rate, one year before the official primary entry age",2020,76.693977,Male,,%,,,,Total
+Algeria,DZ,DZA,12,"Adjusted net attendance rate, one year before the official primary entry age",2020,78.145416,Total,,%,,,,Total
+Angola,AO,AGO,24,"Adjusted net attendance rate, one year before the official primary entry age",2016,50.53513,Female,,%,,,,Total
+Angola,AO,AGO,24,"Adjusted net attendance rate, one year before the official primary entry age",2016,55.051651,Male,,%,,,,Total
+Angola,AO,AGO,24,"Adjusted net attendance rate, one year before the official primary entry age",2016,52.865299,Total,,%,,,,Total
+Argentina,AR,ARG,32,"Adjusted net attendance rate, one year before the official primary entry age",2020,80.490463,Female,,%,,,,Total
+Argentina,AR,ARG,32,"Adjusted net attendance rate, one year before the official primary entry age",2020,87.571136,Male,,%,,,,Total
+Argentina,AR,ARG,32,"Adjusted net attendance rate, one year before the official primary entry age",2020,84.045921,Total,,%,,,,Total
+Armenia,AM,ARM,51,"Adjusted net attendance rate, one year before the official primary entry age",2016,64.800003,Female,,%,,,,Total
+Armenia,AM,ARM,51,"Adjusted net attendance rate, one year before the official primary entry age",2016,58.900002,Male,,%,,,,Total
+Armenia,AM,ARM,51,"Adjusted net attendance rate, one year before the official primary entry age",2016,61.5,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,"Adjusted net attendance rate, one year before the official primary entry age",2011,66.699997,Female,,%,,,,Total
+Azerbaijan,AZ,AZE,31,"Adjusted net attendance rate, one year before the official primary entry age",2011,68.599998,Male,,%,,,,Total
+Azerbaijan,AZ,AZE,31,"Adjusted net attendance rate, one year before the official primary entry age",2011,67.699997,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,"Adjusted net attendance rate, one year before the official primary entry age",2019,78.800003,Female,,%,,,,Total
+Bangladesh,BD,BGD,50,"Adjusted net attendance rate, one year before the official primary entry age",2019,76.099998,Male,,%,,,,Total
+Bangladesh,BD,BGD,50,"Adjusted net attendance rate, one year before the official primary entry age",2019,77.400002,Total,,%,,,,Total
+Barbados,BB,BRB,52,"Adjusted net attendance rate, one year before the official primary entry age",2012,72.223633,Female,,%,,,,Total
+Barbados,BB,BRB,52,"Adjusted net attendance rate, one year before the official primary entry age",2012,63.096771,Male,,%,,,,Total
+Barbados,BB,BRB,52,"Adjusted net attendance rate, one year before the official primary entry age",2012,67.536682,Total,,%,,,,Total
+Belarus,BY,BLR,112,"Adjusted net attendance rate, one year before the official primary entry age",2020,93.73967,Female,,%,,,,Total
+Belarus,BY,BLR,112,"Adjusted net attendance rate, one year before the official primary entry age",2020,94.208748,Male,,%,,,,Total
+Belarus,BY,BLR,112,"Adjusted net attendance rate, one year before the official primary entry age",2020,93.977028,Total,,%,,,,Total
+Belize,BZ,BLZ,84,"Adjusted net attendance rate, one year before the official primary entry age",2011,26.581579,Female,,%,,,,Total
+Belize,BZ,BLZ,84,"Adjusted net attendance rate, one year before the official primary entry age",2011,25.69079,Male,,%,,,,Total
+Belize,BZ,BLZ,84,"Adjusted net attendance rate, one year before the official primary entry age",2011,26.15794,Total,,%,,,,Total
+Benin,BJ,BEN,204,"Adjusted net attendance rate, one year before the official primary entry age",2018,47,Female,,%,,,,Total
+Benin,BJ,BEN,204,"Adjusted net attendance rate, one year before the official primary entry age",2018,49.099998,Male,,%,,,,Total
+Benin,BJ,BEN,204,"Adjusted net attendance rate, one year before the official primary entry age",2018,48.099998,Total,,%,,,,Total
+Bhutan,BT,BTN,64,"Adjusted net attendance rate, one year before the official primary entry age",2010,47.212879,Female,,%,,,,Total
+Bhutan,BT,BTN,64,"Adjusted net attendance rate, one year before the official primary entry age",2010,54.39397,Male,,%,,,,Total
+Bhutan,BT,BTN,64,"Adjusted net attendance rate, one year before the official primary entry age",2010,50.784081,Total,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Adjusted net attendance rate, one year before the official primary entry age",2016,72.359291,Female,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Adjusted net attendance rate, one year before the official primary entry age",2016,64.950363,Male,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Adjusted net attendance rate, one year before the official primary entry age",2016,68.700958,Total,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Adjusted net attendance rate, one year before the official primary entry age",2012,95.102737,Female,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Adjusted net attendance rate, one year before the official primary entry age",2012,96.785507,Male,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Adjusted net attendance rate, one year before the official primary entry age",2012,96.063164,Total,,%,,,,Total
+Botswana,BW,BWA,72,"Adjusted net attendance rate, one year before the official primary entry age",2010,90,Total,,%,,,,Total
+Brazil,BR,BRA,76,"Adjusted net attendance rate, one year before the official primary entry age",2019,95.779404,Female,,%,,,,Total
+Brazil,BR,BRA,76,"Adjusted net attendance rate, one year before the official primary entry age",2019,94.287392,Male,,%,,,,Total
+Brazil,BR,BRA,76,"Adjusted net attendance rate, one year before the official primary entry age",2019,95.005363,Total,,%,,,,Total
+Burkina Faso,BF,BFA,854,"Adjusted net attendance rate, one year before the official primary entry age",2010,50,Female,,%,,,,Total
+Burkina Faso,BF,BFA,854,"Adjusted net attendance rate, one year before the official primary entry age",2010,53.700001,Male,,%,,,,Total
+Burkina Faso,BF,BFA,854,"Adjusted net attendance rate, one year before the official primary entry age",2010,51.900002,Total,,%,,,,Total
+Burundi,BI,BDI,108,"Adjusted net attendance rate, one year before the official primary entry age",2017,37.064968,Female,,%,,,,Total
+Burundi,BI,BDI,108,"Adjusted net attendance rate, one year before the official primary entry age",2017,39.758179,Male,,%,,,,Total
+Burundi,BI,BDI,108,"Adjusted net attendance rate, one year before the official primary entry age",2017,38.3866,Total,,%,,,,Total
+Cambodia,KH,KHM,116,"Adjusted net attendance rate, one year before the official primary entry age",2014,79.591347,Female,,%,,,,Total
+Cambodia,KH,KHM,116,"Adjusted net attendance rate, one year before the official primary entry age",2014,71.764954,Male,,%,,,,Total
+Cambodia,KH,KHM,116,"Adjusted net attendance rate, one year before the official primary entry age",2014,75.532211,Total,,%,,,,Total
+Cameroon,CM,CMR,120,"Adjusted net attendance rate, one year before the official primary entry age",2018,62.862141,Female,,%,,,,Total
+Cameroon,CM,CMR,120,"Adjusted net attendance rate, one year before the official primary entry age",2018,67.16539,Male,,%,,,,Total
+Cameroon,CM,CMR,120,"Adjusted net attendance rate, one year before the official primary entry age",2018,65.030327,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,"Adjusted net attendance rate, one year before the official primary entry age",2019,38.216221,Female,,%,,,,Total
+Central African Republic,CF,CAF,140,"Adjusted net attendance rate, one year before the official primary entry age",2019,47.266869,Male,,%,,,,Total
+Central African Republic,CF,CAF,140,"Adjusted net attendance rate, one year before the official primary entry age",2019,42.857128,Total,,%,,,,Total
+Chad,TD,TCD,148,"Adjusted net attendance rate, one year before the official primary entry age",2019,19.72443,Female,,%,,,,Total
+Chad,TD,TCD,148,"Adjusted net attendance rate, one year before the official primary entry age",2019,20.814659,Male,,%,,,,Total
+Chad,TD,TCD,148,"Adjusted net attendance rate, one year before the official primary entry age",2019,20.281719,Total,,%,,,,Total
+Chile,CL,CHL,152,"Adjusted net attendance rate, one year before the official primary entry age",2017,95.800003,Female,,%,,,,Total
+Chile,CL,CHL,152,"Adjusted net attendance rate, one year before the official primary entry age",2017,96.900002,Male,,%,,,,Total
+Chile,CL,CHL,152,"Adjusted net attendance rate, one year before the official primary entry age",2017,96.300003,Total,,%,,,,Total
+Colombia,CO,COL,170,"Adjusted net attendance rate, one year before the official primary entry age",2015,98.190102,Female,,%,,,,Total
+Colombia,CO,COL,170,"Adjusted net attendance rate, one year before the official primary entry age",2015,98.172707,Male,,%,,,,Total
+Colombia,CO,COL,170,"Adjusted net attendance rate, one year before the official primary entry age",2015,98.181023,Total,,%,,,,Total
+Comoros,KM,COM,174,"Adjusted net attendance rate, one year before the official primary entry age",2012,68.216537,Female,,%,,,,Total
+Comoros,KM,COM,174,"Adjusted net attendance rate, one year before the official primary entry age",2012,63.612789,Male,,%,,,,Total
+Comoros,KM,COM,174,"Adjusted net attendance rate, one year before the official primary entry age",2012,66.053993,Total,,%,,,,Total
+Congo,CG,COG,178,"Adjusted net attendance rate, one year before the official primary entry age",2015,77.39724,Female,,%,,,,Total
+Congo,CG,COG,178,"Adjusted net attendance rate, one year before the official primary entry age",2015,75.996872,Male,,%,,,,Total
+Congo,CG,COG,178,"Adjusted net attendance rate, one year before the official primary entry age",2015,76.727493,Total,,%,,,,Total
+Costa Rica,CR,CRI,188,"Adjusted net attendance rate, one year before the official primary entry age",2018,95.763527,Female,,%,,,,Total
+Costa Rica,CR,CRI,188,"Adjusted net attendance rate, one year before the official primary entry age",2018,95.817528,Male,,%,,,,Total
+Costa Rica,CR,CRI,188,"Adjusted net attendance rate, one year before the official primary entry age",2018,95.788879,Total,,%,,,,Total
+Cuba,CU,CUB,192,"Adjusted net attendance rate, one year before the official primary entry age",2019,98.497864,Female,,%,,,,Total
+Cuba,CU,CUB,192,"Adjusted net attendance rate, one year before the official primary entry age",2019,93.197456,Male,,%,,,,Total
+Cuba,CU,CUB,192,"Adjusted net attendance rate, one year before the official primary entry age",2019,95.554268,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,"Adjusted net attendance rate, one year before the official primary entry age",2016,47.56488,Female,,%,,,,Total
+Ivory Coast,CI,CIV,384,"Adjusted net attendance rate, one year before the official primary entry age",2016,48.490471,Male,,%,,,,Total
+Ivory Coast,CI,CIV,384,"Adjusted net attendance rate, one year before the official primary entry age",2016,48.02005,Total,,%,,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,"Adjusted net attendance rate, one year before the official primary entry age",2017,96.300003,Female,,%,,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,"Adjusted net attendance rate, one year before the official primary entry age",2017,97.900002,Male,,%,,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,"Adjusted net attendance rate, one year before the official primary entry age",2017,97.099998,Total,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Adjusted net attendance rate, one year before the official primary entry age",2018,42.914131,Female,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Adjusted net attendance rate, one year before the official primary entry age",2018,43.02837,Male,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Adjusted net attendance rate, one year before the official primary entry age",2018,42.96962,Total,,%,,,,Total
+Dominican Republic,DO,DOM,214,"Adjusted net attendance rate, one year before the official primary entry age",2019,92.959358,Female,,%,,,,Total
+Dominican Republic,DO,DOM,214,"Adjusted net attendance rate, one year before the official primary entry age",2019,91.986977,Male,,%,,,,Total
+Dominican Republic,DO,DOM,214,"Adjusted net attendance rate, one year before the official primary entry age",2019,92.4842,Total,,%,,,,Total
+Ecuador,EC,ECU,218,"Adjusted net attendance rate, one year before the official primary entry age",2019,85.300003,Female,,%,,,,Total
+Ecuador,EC,ECU,218,"Adjusted net attendance rate, one year before the official primary entry age",2019,79.900002,Male,,%,,,,Total
+Ecuador,EC,ECU,218,"Adjusted net attendance rate, one year before the official primary entry age",2019,82.699997,Total,,%,,,,Total
+Egypt,EG,EGY,818,"Adjusted net attendance rate, one year before the official primary entry age",2014,59.200661,Female,,%,,,,Total
+Egypt,EG,EGY,818,"Adjusted net attendance rate, one year before the official primary entry age",2014,58.9086,Male,,%,,,,Total
+Egypt,EG,EGY,818,"Adjusted net attendance rate, one year before the official primary entry age",2014,59.046619,Total,,%,,,,Total
+El Salvador,SV,SLV,222,"Adjusted net attendance rate, one year before the official primary entry age",2014,92.548187,Female,,%,,,,Total
+El Salvador,SV,SLV,222,"Adjusted net attendance rate, one year before the official primary entry age",2014,93.181007,Male,,%,,,,Total
+El Salvador,SV,SLV,222,"Adjusted net attendance rate, one year before the official primary entry age",2014,92.888588,Total,,%,,,,Total
+Eritrea,ER,ERI,232,"Adjusted net attendance rate, one year before the official primary entry age",2010,78.860001,Female,,%,,,,Total
+Eritrea,ER,ERI,232,"Adjusted net attendance rate, one year before the official primary entry age",2010,82.940002,Male,,%,,,,Total
+Eritrea,ER,ERI,232,"Adjusted net attendance rate, one year before the official primary entry age",2010,81,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,"Adjusted net attendance rate, one year before the official primary entry age",2016,50.610611,Female,,%,,,,Total
+Ethiopia,ET,ETH,231,"Adjusted net attendance rate, one year before the official primary entry age",2016,52.39386,Male,,%,,,,Total
+Ethiopia,ET,ETH,231,"Adjusted net attendance rate, one year before the official primary entry age",2016,51.490551,Total,,%,,,,Total
+Gabon,GA,GAB,266,"Adjusted net attendance rate, one year before the official primary entry age",2012,77.916519,Female,,%,,,,Total
+Gabon,GA,GAB,266,"Adjusted net attendance rate, one year before the official primary entry age",2012,84.646271,Male,,%,,,,Total
+Gabon,GA,GAB,266,"Adjusted net attendance rate, one year before the official primary entry age",2012,81.090652,Total,,%,,,,Total
+Gambia,GM,GMB,270,"Adjusted net attendance rate, one year before the official primary entry age",2018,74.599998,Female,,%,,,,Total
+Gambia,GM,GMB,270,"Adjusted net attendance rate, one year before the official primary entry age",2018,74.5,Male,,%,,,,Total
+Gambia,GM,GMB,270,"Adjusted net attendance rate, one year before the official primary entry age",2018,74.599998,Total,,%,,,,Total
+Georgia,GE,GEO,268,"Adjusted net attendance rate, one year before the official primary entry age",2018,92.217216,Female,,%,,,,Total
+Georgia,GE,GEO,268,"Adjusted net attendance rate, one year before the official primary entry age",2018,87.454514,Male,,%,,,,Total
+Georgia,GE,GEO,268,"Adjusted net attendance rate, one year before the official primary entry age",2018,89.599998,Total,,%,,,,Total
+Ghana,GH,GHA,288,"Adjusted net attendance rate, one year before the official primary entry age",2018,90.127312,Female,,%,,,,Total
+Ghana,GH,GHA,288,"Adjusted net attendance rate, one year before the official primary entry age",2018,86.046494,Male,,%,,,,Total
+Ghana,GH,GHA,288,"Adjusted net attendance rate, one year before the official primary entry age",2018,88.089569,Total,,%,,,,Total
+Guatemala,GT,GTM,320,"Adjusted net attendance rate, one year before the official primary entry age",2015,91.281563,Female,,%,,,,Total
+Guatemala,GT,GTM,320,"Adjusted net attendance rate, one year before the official primary entry age",2015,90.98381,Male,,%,,,,Total
+Guatemala,GT,GTM,320,"Adjusted net attendance rate, one year before the official primary entry age",2015,91.131767,Total,,%,,,,Total
+Guinea,GN,GIN,324,"Adjusted net attendance rate, one year before the official primary entry age",2018,50.44109,Female,,%,,,,Total
+Guinea,GN,GIN,324,"Adjusted net attendance rate, one year before the official primary entry age",2018,53.436119,Male,,%,,,,Total
+Guinea,GN,GIN,324,"Adjusted net attendance rate, one year before the official primary entry age",2018,51.94297,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,"Adjusted net attendance rate, one year before the official primary entry age",2019,44.447338,Female,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,"Adjusted net attendance rate, one year before the official primary entry age",2019,45.494061,Male,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,"Adjusted net attendance rate, one year before the official primary entry age",2019,44.987091,Total,,%,,,,Total
+Guyana,GY,GUY,328,"Adjusted net attendance rate, one year before the official primary entry age",2020,98.050903,Female,,%,,,,Total
+Guyana,GY,GUY,328,"Adjusted net attendance rate, one year before the official primary entry age",2020,97.335159,Male,,%,,,,Total
+Guyana,GY,GUY,328,"Adjusted net attendance rate, one year before the official primary entry age",2020,97.699623,Total,,%,,,,Total
+Haiti,HT,HTI,332,"Adjusted net attendance rate, one year before the official primary entry age",2017,87.061157,Female,,%,,,,Total
+Haiti,HT,HTI,332,"Adjusted net attendance rate, one year before the official primary entry age",2017,84.197357,Male,,%,,,,Total
+Haiti,HT,HTI,332,"Adjusted net attendance rate, one year before the official primary entry age",2017,85.544777,Total,,%,,,,Total
+Honduras,HN,HND,340,"Adjusted net attendance rate, one year before the official primary entry age",2019,91.705994,Female,,%,,,,Total
+Honduras,HN,HND,340,"Adjusted net attendance rate, one year before the official primary entry age",2019,90.658989,Male,,%,,,,Total
+Honduras,HN,HND,340,"Adjusted net attendance rate, one year before the official primary entry age",2019,91.146637,Total,,%,,,,Total
+India,IN,IND,356,"Adjusted net attendance rate, one year before the official primary entry age",2016,88.223152,Female,,%,,,,Total
+India,IN,IND,356,"Adjusted net attendance rate, one year before the official primary entry age",2016,88.794312,Male,,%,,,,Total
+India,IN,IND,356,"Adjusted net attendance rate, one year before the official primary entry age",2016,88.520248,Total,,%,,,,Total
+Indonesia,ID,IDN,360,"Adjusted net attendance rate, one year before the official primary entry age",2017,79.933189,Female,,%,,,,Total
+Indonesia,ID,IDN,360,"Adjusted net attendance rate, one year before the official primary entry age",2017,75.308929,Male,,%,,,,Total
+Indonesia,ID,IDN,360,"Adjusted net attendance rate, one year before the official primary entry age",2017,77.523163,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Adjusted net attendance rate, one year before the official primary entry age",2011,96.940002,Female,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Adjusted net attendance rate, one year before the official primary entry age",2011,96.440002,Male,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Adjusted net attendance rate, one year before the official primary entry age",2011,96.68,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,"Adjusted net attendance rate, one year before the official primary entry age",2018,31.838381,Female,,%,,,,Total
+Iraq,IQ,IRQ,368,"Adjusted net attendance rate, one year before the official primary entry age",2018,32.126282,Male,,%,,,,Total
+Iraq,IQ,IRQ,368,"Adjusted net attendance rate, one year before the official primary entry age",2018,31.98444,Total,,%,,,,Total
+Jamaica,JM,JAM,388,"Adjusted net attendance rate, one year before the official primary entry age",2011,98.699997,Female,,%,,,,Total
+Jamaica,JM,JAM,388,"Adjusted net attendance rate, one year before the official primary entry age",2011,97.199997,Male,,%,,,,Total
+Jamaica,JM,JAM,388,"Adjusted net attendance rate, one year before the official primary entry age",2011,98,Total,,%,,,,Total
+Jordan,JO,JOR,400,"Adjusted net attendance rate, one year before the official primary entry age",2018,45.94862,Female,,%,,,,Total
+Jordan,JO,JOR,400,"Adjusted net attendance rate, one year before the official primary entry age",2018,44.310829,Male,,%,,,,Total
+Jordan,JO,JOR,400,"Adjusted net attendance rate, one year before the official primary entry age",2018,45.076908,Total,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,"Adjusted net attendance rate, one year before the official primary entry age",2015,96.713287,Female,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,"Adjusted net attendance rate, one year before the official primary entry age",2015,96.040298,Male,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,"Adjusted net attendance rate, one year before the official primary entry age",2015,96.350189,Total,,%,,,,Total
+Kenya,KE,KEN,404,"Adjusted net attendance rate, one year before the official primary entry age",2014,90.645477,Female,,%,,,,Total
+Kenya,KE,KEN,404,"Adjusted net attendance rate, one year before the official primary entry age",2014,90.010849,Male,,%,,,,Total
+Kenya,KE,KEN,404,"Adjusted net attendance rate, one year before the official primary entry age",2014,90.32209,Total,,%,,,,Total
+Kiribati,KI,KIR,296,"Adjusted net attendance rate, one year before the official primary entry age",2019,97.342484,Female,,%,,,,Total
+Kiribati,KI,KIR,296,"Adjusted net attendance rate, one year before the official primary entry age",2019,95.220123,Male,,%,,,,Total
+Kiribati,KI,KIR,296,"Adjusted net attendance rate, one year before the official primary entry age",2019,96.199837,Total,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,"Adjusted net attendance rate, one year before the official primary entry age",2018,90.199997,Female,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,"Adjusted net attendance rate, one year before the official primary entry age",2018,92.199997,Male,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,"Adjusted net attendance rate, one year before the official primary entry age",2018,91.300003,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,"Adjusted net attendance rate, one year before the official primary entry age",2017,76.29361,Female,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,"Adjusted net attendance rate, one year before the official primary entry age",2017,71.82756,Male,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,"Adjusted net attendance rate, one year before the official primary entry age",2017,73.861076,Total,,%,,,,Total
+Lesotho,LS,LSO,426,"Adjusted net attendance rate, one year before the official primary entry age",2018,87.5,Female,,%,,,,Total
+Lesotho,LS,LSO,426,"Adjusted net attendance rate, one year before the official primary entry age",2018,81.800003,Male,,%,,,,Total
+Lesotho,LS,LSO,426,"Adjusted net attendance rate, one year before the official primary entry age",2018,84.900002,Total,,%,,,,Total
+Liberia,LR,LBR,430,"Adjusted net attendance rate, one year before the official primary entry age",2013,68.35865,Female,,%,,,,Total
+Liberia,LR,LBR,430,"Adjusted net attendance rate, one year before the official primary entry age",2013,65.756706,Male,,%,,,,Total
+Liberia,LR,LBR,430,"Adjusted net attendance rate, one year before the official primary entry age",2013,66.96521,Total,,%,,,,Total
+Madagascar,MG,MDG,450,"Adjusted net attendance rate, one year before the official primary entry age",2018,60.400002,Female,,%,,,,Total
+Madagascar,MG,MDG,450,"Adjusted net attendance rate, one year before the official primary entry age",2018,58.299999,Male,,%,,,,Total
+Madagascar,MG,MDG,450,"Adjusted net attendance rate, one year before the official primary entry age",2018,59.400002,Total,,%,,,,Total
+Malawi,MW,MWI,454,"Adjusted net attendance rate, one year before the official primary entry age",2016,65.276207,Female,,%,,,,Total
+Malawi,MW,MWI,454,"Adjusted net attendance rate, one year before the official primary entry age",2016,60.358002,Male,,%,,,,Total
+Malawi,MW,MWI,454,"Adjusted net attendance rate, one year before the official primary entry age",2016,62.835651,Total,,%,,,,Total
+Maldives,MV,MDV,462,"Adjusted net attendance rate, one year before the official primary entry age",2017,98.900002,Female,,%,,,,Total
+Maldives,MV,MDV,462,"Adjusted net attendance rate, one year before the official primary entry age",2017,97.300003,Male,,%,,,,Total
+Maldives,MV,MDV,462,"Adjusted net attendance rate, one year before the official primary entry age",2017,98,Total,,%,,,,Total
+Mali,ML,MLI,466,"Adjusted net attendance rate, one year before the official primary entry age",2015,51.851589,Female,,%,,,,Total
+Mali,ML,MLI,466,"Adjusted net attendance rate, one year before the official primary entry age",2015,53.319672,Male,,%,,,,Total
+Mali,ML,MLI,466,"Adjusted net attendance rate, one year before the official primary entry age",2015,52.62154,Total,,%,,,,Total
+Mauritania,MR,MRT,478,"Adjusted net attendance rate, one year before the official primary entry age",2015,26.96007,Female,,%,,,,Total
+Mauritania,MR,MRT,478,"Adjusted net attendance rate, one year before the official primary entry age",2015,23.961729,Male,,%,,,,Total
+Mauritania,MR,MRT,478,"Adjusted net attendance rate, one year before the official primary entry age",2015,25.478689,Total,,%,,,,Total
+Mexico,MX,MEX,484,"Adjusted net attendance rate, one year before the official primary entry age",2018,97.400002,Female,,%,,,,Total
+Mexico,MX,MEX,484,"Adjusted net attendance rate, one year before the official primary entry age",2018,97.199997,Male,,%,,,,Total
+Mexico,MX,MEX,484,"Adjusted net attendance rate, one year before the official primary entry age",2018,97.300003,Total,,%,,,,Total
+Mongolia,MN,MNG,496,"Adjusted net attendance rate, one year before the official primary entry age",2018,88.300003,Female,,%,,,,Total
+Mongolia,MN,MNG,496,"Adjusted net attendance rate, one year before the official primary entry age",2018,80.199997,Male,,%,,,,Total
+Mongolia,MN,MNG,496,"Adjusted net attendance rate, one year before the official primary entry age",2018,84.300003,Total,,%,,,,Total
+Montenegro,ME,MNE,499,"Adjusted net attendance rate, one year before the official primary entry age",2018,62.7682,Female,,%,,,,Total
+Montenegro,ME,MNE,499,"Adjusted net attendance rate, one year before the official primary entry age",2018,71.282249,Male,,%,,,,Total
+Montenegro,ME,MNE,499,"Adjusted net attendance rate, one year before the official primary entry age",2018,66.967796,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,"Adjusted net attendance rate, one year before the official primary entry age",2011,71.699997,Female,,%,,,,Total
+Mozambique,MZ,MOZ,508,"Adjusted net attendance rate, one year before the official primary entry age",2011,71.300003,Male,,%,,,,Total
+Mozambique,MZ,MOZ,508,"Adjusted net attendance rate, one year before the official primary entry age",2011,71.5,Total,,%,,,,Total
+Myanmar,MM,MMR,104,"Adjusted net attendance rate, one year before the official primary entry age",2016,56.230949,Female,,%,,,,Total
+Myanmar,MM,MMR,104,"Adjusted net attendance rate, one year before the official primary entry age",2016,55.292259,Male,,%,,,,Total
+Myanmar,MM,MMR,104,"Adjusted net attendance rate, one year before the official primary entry age",2016,55.756939,Total,,%,,,,Total
+Namibia,,NAM,516,"Adjusted net attendance rate, one year before the official primary entry age",2013,91.122993,Female,,%,,,,Total
+Namibia,,NAM,516,"Adjusted net attendance rate, one year before the official primary entry age",2013,88.025932,Male,,%,,,,Total
+Namibia,,NAM,516,"Adjusted net attendance rate, one year before the official primary entry age",2013,89.614929,Total,,%,,,,Total
+Nauru,NR,NRU,520,"Adjusted net attendance rate, one year before the official primary entry age",2011,97.699997,Female,,%,,,,Total
+Nauru,NR,NRU,520,"Adjusted net attendance rate, one year before the official primary entry age",2011,96.900002,Male,,%,,,,Total
+Nauru,NR,NRU,520,"Adjusted net attendance rate, one year before the official primary entry age",2011,97.300003,Total,,%,,,,Total
+Nepal,NP,NPL,524,"Adjusted net attendance rate, one year before the official primary entry age",2019,81.82502,Female,,%,,,,Total
+Nepal,NP,NPL,524,"Adjusted net attendance rate, one year before the official primary entry age",2019,83.799599,Male,,%,,,,Total
+Nepal,NP,NPL,524,"Adjusted net attendance rate, one year before the official primary entry age",2019,82.884506,Total,,%,,,,Total
+Niger,NE,NER,562,"Adjusted net attendance rate, one year before the official primary entry age",2012,28.87252,Female,,%,,,,Total
+Niger,NE,NER,562,"Adjusted net attendance rate, one year before the official primary entry age",2012,35.149811,Male,,%,,,,Total
+Niger,NE,NER,562,"Adjusted net attendance rate, one year before the official primary entry age",2012,32.047588,Total,,%,,,,Total
+Nigeria,NG,NGA,566,"Adjusted net attendance rate, one year before the official primary entry age",2018,61.200001,Female,,%,,,,Total
+Nigeria,NG,NGA,566,"Adjusted net attendance rate, one year before the official primary entry age",2018,59.799999,Male,,%,,,,Total
+Nigeria,NG,NGA,566,"Adjusted net attendance rate, one year before the official primary entry age",2018,60.5,Total,,%,,,,Total
+Niue,NU,NIU,570,"Adjusted net attendance rate, one year before the official primary entry age",2011,100,Female,,%,,,,Total
+Niue,NU,NIU,570,"Adjusted net attendance rate, one year before the official primary entry age",2011,100,Male,,%,,,,Total
+Niue,NU,NIU,570,"Adjusted net attendance rate, one year before the official primary entry age",2011,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Adjusted net attendance rate, one year before the official primary entry age",2019,54.238819,Female,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Adjusted net attendance rate, one year before the official primary entry age",2019,45.887459,Male,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Adjusted net attendance rate, one year before the official primary entry age",2019,49.948261,Total,,%,,,,Total
+Pakistan,PK,PAK,586,"Adjusted net attendance rate, one year before the official primary entry age",2018,60.648739,Female,,%,,,,Total
+Pakistan,PK,PAK,586,"Adjusted net attendance rate, one year before the official primary entry age",2018,60.927891,Male,,%,,,,Total
+Pakistan,PK,PAK,586,"Adjusted net attendance rate, one year before the official primary entry age",2018,60.784931,Total,,%,,,,Total
+Panama,PA,PAN,591,"Adjusted net attendance rate, one year before the official primary entry age",2013,82.681976,Female,,%,,,,Total
+Panama,PA,PAN,591,"Adjusted net attendance rate, one year before the official primary entry age",2013,78.985718,Male,,%,,,,Total
+Panama,PA,PAN,591,"Adjusted net attendance rate, one year before the official primary entry age",2013,80.779617,Total,,%,,,,Total
+Paraguay,PY,PRY,600,"Adjusted net attendance rate, one year before the official primary entry age",2017,96.5,Female,,%,,,,Total
+Paraguay,PY,PRY,600,"Adjusted net attendance rate, one year before the official primary entry age",2017,96.5,Male,,%,,,,Total
+Paraguay,PY,PRY,600,"Adjusted net attendance rate, one year before the official primary entry age",2017,96.5,Total,,%,,,,Total
+Peru,PE,PER,604,"Adjusted net attendance rate, one year before the official primary entry age",2012,96.210327,Female,,%,,,,Total
+Peru,PE,PER,604,"Adjusted net attendance rate, one year before the official primary entry age",2012,95.445183,Male,,%,,,,Total
+Peru,PE,PER,604,"Adjusted net attendance rate, one year before the official primary entry age",2012,95.811432,Total,,%,,,,Total
+Philippines,PH,PHL,608,"Adjusted net attendance rate, one year before the official primary entry age",2017,86.974228,Female,,%,,,,Total
+Philippines,PH,PHL,608,"Adjusted net attendance rate, one year before the official primary entry age",2017,82.236801,Male,,%,,,,Total
+Philippines,PH,PHL,608,"Adjusted net attendance rate, one year before the official primary entry age",2017,84.444153,Total,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,"Adjusted net attendance rate, one year before the official primary entry age",2012,94.963837,Female,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,"Adjusted net attendance rate, one year before the official primary entry age",2012,92.584923,Male,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,"Adjusted net attendance rate, one year before the official primary entry age",2012,93.857712,Total,,%,,,,Total
+Rwanda,RW,RWA,646,"Adjusted net attendance rate, one year before the official primary entry age",2015,84.047363,Female,,%,,,,Total
+Rwanda,RW,RWA,646,"Adjusted net attendance rate, one year before the official primary entry age",2015,84.390633,Male,,%,,,,Total
+Rwanda,RW,RWA,646,"Adjusted net attendance rate, one year before the official primary entry age",2015,84.226242,Total,,%,,,,Total
+Saint Lucia,LC,LCA,662,"Adjusted net attendance rate, one year before the official primary entry age",2012,50.082779,Female,,%,,,,Total
+Saint Lucia,LC,LCA,662,"Adjusted net attendance rate, one year before the official primary entry age",2012,56.441978,Male,,%,,,,Total
+Saint Lucia,LC,LCA,662,"Adjusted net attendance rate, one year before the official primary entry age",2012,53.829708,Total,,%,,,,Total
+Samoa,WS,WSM,882,"Adjusted net attendance rate, one year before the official primary entry age",2020,57.29818,Female,,%,,,,Total
+Samoa,WS,WSM,882,"Adjusted net attendance rate, one year before the official primary entry age",2020,52.268551,Male,,%,,,,Total
+Samoa,WS,WSM,882,"Adjusted net attendance rate, one year before the official primary entry age",2020,54.662289,Total,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,"Adjusted net attendance rate, one year before the official primary entry age",2019,78.157219,Female,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,"Adjusted net attendance rate, one year before the official primary entry age",2019,69.854912,Male,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,"Adjusted net attendance rate, one year before the official primary entry age",2019,74.061607,Total,,%,,,,Total
+Senegal,SN,SEN,686,"Adjusted net attendance rate, one year before the official primary entry age",2019,29.855909,Female,,%,,,,Total
+Senegal,SN,SEN,686,"Adjusted net attendance rate, one year before the official primary entry age",2019,26.692011,Male,,%,,,,Total
+Senegal,SN,SEN,686,"Adjusted net attendance rate, one year before the official primary entry age",2019,28.29002,Total,,%,,,,Total
+Serbia,RS,SRB,688,"Adjusted net attendance rate, one year before the official primary entry age",2019,95.876747,Female,,%,,,,Total
+Serbia,RS,SRB,688,"Adjusted net attendance rate, one year before the official primary entry age",2019,97.679626,Male,,%,,,,Total
+Serbia,RS,SRB,688,"Adjusted net attendance rate, one year before the official primary entry age",2019,96.893997,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,"Adjusted net attendance rate, one year before the official primary entry age",2017,65.900002,Female,,%,,,,Total
+Sierra Leone,SL,SLE,694,"Adjusted net attendance rate, one year before the official primary entry age",2017,62,Male,,%,,,,Total
+Sierra Leone,SL,SLE,694,"Adjusted net attendance rate, one year before the official primary entry age",2017,63.900002,Total,,%,,,,Total
+South Africa,ZA,ZAF,710,"Adjusted net attendance rate, one year before the official primary entry age",2016,96.312263,Female,,%,,,,Total
+South Africa,ZA,ZAF,710,"Adjusted net attendance rate, one year before the official primary entry age",2016,98.144997,Male,,%,,,,Total
+South Africa,ZA,ZAF,710,"Adjusted net attendance rate, one year before the official primary entry age",2016,97.290939,Total,,%,,,,Total
+South Sudan,SS,SSD,728,"Adjusted net attendance rate, one year before the official primary entry age",2010,21.12113,Female,,%,,,,Total
+South Sudan,SS,SSD,728,"Adjusted net attendance rate, one year before the official primary entry age",2010,25.77895,Male,,%,,,,Total
+South Sudan,SS,SSD,728,"Adjusted net attendance rate, one year before the official primary entry age",2010,23.48708,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,"Adjusted net attendance rate, one year before the official primary entry age",2016,41.062401,Female,,%,,,,Total
+Sri Lanka,LK,LKA,144,"Adjusted net attendance rate, one year before the official primary entry age",2016,42.028259,Male,,%,,,,Total
+Sri Lanka,LK,LKA,144,"Adjusted net attendance rate, one year before the official primary entry age",2016,41.554981,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"Adjusted net attendance rate, one year before the official primary entry age",2020,94.876266,Female,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"Adjusted net attendance rate, one year before the official primary entry age",2020,92.519913,Male,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"Adjusted net attendance rate, one year before the official primary entry age",2020,93.621063,Total,,%,,,,Total
+Sudan,SD,SDN,736,"Adjusted net attendance rate, one year before the official primary entry age",2014,39.129429,Female,,%,,,,Total
+Sudan,SD,SDN,736,"Adjusted net attendance rate, one year before the official primary entry age",2014,42.52504,Male,,%,,,,Total
+Sudan,SD,SDN,736,"Adjusted net attendance rate, one year before the official primary entry age",2014,40.825241,Total,,%,,,,Total
+Suriname,SR,SUR,740,"Adjusted net attendance rate, one year before the official primary entry age",2018,94.800003,Female,,%,,,,Total
+Suriname,SR,SUR,740,"Adjusted net attendance rate, one year before the official primary entry age",2018,92.900002,Male,,%,,,,Total
+Suriname,SR,SUR,740,"Adjusted net attendance rate, one year before the official primary entry age",2018,93.800003,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,"Adjusted net attendance rate, one year before the official primary entry age",2017,52.350349,Female,,%,,,,Total
+Tajikistan,TJ,TJK,762,"Adjusted net attendance rate, one year before the official primary entry age",2017,47.469212,Male,,%,,,,Total
+Tajikistan,TJ,TJK,762,"Adjusted net attendance rate, one year before the official primary entry age",2017,49.77478,Total,,%,,,,Total
+Thailand,TH,THA,764,"Adjusted net attendance rate, one year before the official primary entry age",2019,99.233421,Female,,%,,,,Total
+Thailand,TH,THA,764,"Adjusted net attendance rate, one year before the official primary entry age",2019,97.653419,Male,,%,,,,Total
+Thailand,TH,THA,764,"Adjusted net attendance rate, one year before the official primary entry age",2019,98.477608,Total,,%,,,,Total
+Timor-Leste,TL,TLS,626,"Adjusted net attendance rate, one year before the official primary entry age",2016,62.75135,Female,,%,,,,Total
+Timor-Leste,TL,TLS,626,"Adjusted net attendance rate, one year before the official primary entry age",2016,64.710579,Male,,%,,,,Total
+Timor-Leste,TL,TLS,626,"Adjusted net attendance rate, one year before the official primary entry age",2016,63.736671,Total,,%,,,,Total
+Togo,TG,TGO,768,"Adjusted net attendance rate, one year before the official primary entry age",2017,70.314621,Female,,%,,,,Total
+Togo,TG,TGO,768,"Adjusted net attendance rate, one year before the official primary entry age",2017,73.410439,Male,,%,,,,Total
+Togo,TG,TGO,768,"Adjusted net attendance rate, one year before the official primary entry age",2017,71.826431,Total,,%,,,,Total
+Tonga,TO,TON,776,"Adjusted net attendance rate, one year before the official primary entry age",2019,97.015228,Female,,%,,,,Total
+Tonga,TO,TON,776,"Adjusted net attendance rate, one year before the official primary entry age",2019,96.378433,Male,,%,,,,Total
+Tonga,TO,TON,776,"Adjusted net attendance rate, one year before the official primary entry age",2019,96.681976,Total,,%,,,,Total
+Tunisia,TN,TUN,788,"Adjusted net attendance rate, one year before the official primary entry age",2018,90.800003,Female,,%,,,,Total
+Tunisia,TN,TUN,788,"Adjusted net attendance rate, one year before the official primary entry age",2018,89.800003,Male,,%,,,,Total
+Tunisia,TN,TUN,788,"Adjusted net attendance rate, one year before the official primary entry age",2018,90.300003,Total,,%,,,,Total
+Turkmenistan,TM,TKM,795,"Adjusted net attendance rate, one year before the official primary entry age",2019,50.70015,Female,,%,,,,Total
+Turkmenistan,TM,TKM,795,"Adjusted net attendance rate, one year before the official primary entry age",2019,48.866009,Male,,%,,,,Total
+Turkmenistan,TM,TKM,795,"Adjusted net attendance rate, one year before the official primary entry age",2019,49.79789,Total,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,"Adjusted net attendance rate, one year before the official primary entry age",2020,99.41732,Female,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,"Adjusted net attendance rate, one year before the official primary entry age",2020,98.526154,Male,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,"Adjusted net attendance rate, one year before the official primary entry age",2020,99.036041,Total,,%,,,,Total
+Tuvalu,TV,TUV,798,"Adjusted net attendance rate, one year before the official primary entry age",2020,80.079521,Female,,%,,,,Total
+Tuvalu,TV,TUV,798,"Adjusted net attendance rate, one year before the official primary entry age",2020,74.349533,Male,,%,,,,Total
+Tuvalu,TV,TUV,798,"Adjusted net attendance rate, one year before the official primary entry age",2020,77.115341,Total,,%,,,,Total
+Uganda,UG,UGA,800,"Adjusted net attendance rate, one year before the official primary entry age",2016,73.455231,Female,,%,,,,Total
+Uganda,UG,UGA,800,"Adjusted net attendance rate, one year before the official primary entry age",2016,71.23069,Male,,%,,,,Total
+Uganda,UG,UGA,800,"Adjusted net attendance rate, one year before the official primary entry age",2016,72.317421,Total,,%,,,,Total
+Ukraine,UA,UKR,804,"Adjusted net attendance rate, one year before the official primary entry age",2012,81.018341,Female,,%,,,,Total
+Ukraine,UA,UKR,804,"Adjusted net attendance rate, one year before the official primary entry age",2012,77.969391,Male,,%,,,,Total
+Ukraine,UA,UKR,804,"Adjusted net attendance rate, one year before the official primary entry age",2012,79.446663,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Adjusted net attendance rate, one year before the official primary entry age",2016,71.916054,Female,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Adjusted net attendance rate, one year before the official primary entry age",2016,66.177544,Male,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Adjusted net attendance rate, one year before the official primary entry age",2016,69.002563,Total,,%,,,,Total
+Uruguay,UY,URY,858,"Adjusted net attendance rate, one year before the official primary entry age",2013,98.589622,Female,,%,,,,Total
+Uruguay,UY,URY,858,"Adjusted net attendance rate, one year before the official primary entry age",2013,99.11274,Male,,%,,,,Total
+Uruguay,UY,URY,858,"Adjusted net attendance rate, one year before the official primary entry age",2013,98.878601,Total,,%,,,,Total
+Vietnam,VN,VNM,704,"Adjusted net attendance rate, one year before the official primary entry age",2014,94.188477,Female,,%,,,,Total
+Vietnam,VN,VNM,704,"Adjusted net attendance rate, one year before the official primary entry age",2014,95.465401,Male,,%,,,,Total
+Vietnam,VN,VNM,704,"Adjusted net attendance rate, one year before the official primary entry age",2014,94.897118,Total,,%,,,,Total
+Yemen,YE,YEM,887,"Adjusted net attendance rate, one year before the official primary entry age",2013,14.31997,Female,,%,,,,Total
+Yemen,YE,YEM,887,"Adjusted net attendance rate, one year before the official primary entry age",2013,13.21062,Male,,%,,,,Total
+Yemen,YE,YEM,887,"Adjusted net attendance rate, one year before the official primary entry age",2013,13.75709,Total,,%,,,,Total
+Zambia,ZM,ZMB,894,"Adjusted net attendance rate, one year before the official primary entry age",2018,58.091839,Female,,%,,,,Total
+Zambia,ZM,ZMB,894,"Adjusted net attendance rate, one year before the official primary entry age",2018,59.347351,Male,,%,,,,Total
+Zambia,ZM,ZMB,894,"Adjusted net attendance rate, one year before the official primary entry age",2018,58.716782,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,"Adjusted net attendance rate, one year before the official primary entry age",2019,79.800003,Female,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,"Adjusted net attendance rate, one year before the official primary entry age",2019,82,Male,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,"Adjusted net attendance rate, one year before the official primary entry age",2019,81,Total,,%,,,,Total
